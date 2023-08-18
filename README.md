@@ -1,5 +1,5 @@
-# Flight_Fare_project_Folder
-# Domail analysis
+## Flight_Fare_project_Folder
+## Domail analysis
 # Attribute Information :
 1. Airline: So this column will have all the types of airlines like Indigo, Jet Airways,
 Air India, and many more.
